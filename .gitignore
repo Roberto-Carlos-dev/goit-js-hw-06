@@ -1,0 +1,25 @@
+# Файли та папки Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Лог-файли
+*.log
+logs
+*.out
+
+# Файли редактора
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Файли операційної системи
+.DS_Store
+Thumbs.db
+
+# Бінарні файли та кеш
+dist/
+build/
+coverage/
+.env
